@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T11:52:00.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7Zdgq5f_psj_Zh581YSt" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T11:52:42.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="APkjlH_nExAkueYeyo08" version="16.1.0" type="github">
   <diagram id="4yBUrwVcdltaq95xlQeb" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,24 @@
         </mxCell>
         <mxCell id="YblVoAuH88jNYZOuT4qQ-10" value="&lt;b&gt;获取线程池状态及线程数量&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="336.5" y="274" width="138" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-24" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="214" y="573" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-25" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="408" y="434" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-26" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="408" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-27" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="536" y="573" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-28" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="536" y="466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YblVoAuH88jNYZOuT4qQ-29" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="536" y="355" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
