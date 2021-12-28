@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:25:14.348Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TY6V8OR5-hNLUzC7TVU2" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:25:55.049Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JJ1GD1rEMdip8NmJnu2i" version="16.0.0" type="github">
   <diagram id="ySVifV-QcuqdoftmTHAm" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="4yu5VvH08vNOzonepLd2-29" value="循环/重新申请新任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="754" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4yu5VvH08vNOzonepLd2-30" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="399" y="342" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
