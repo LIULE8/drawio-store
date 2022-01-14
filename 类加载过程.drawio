@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T07:12:18.759Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="z8HcRo-FWICWZoPjDRjb" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T08:12:28.073Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iNd_D350l9FJNZEKGWJw" version="16.1.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="1562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,11 +28,26 @@
             <mxPoint x="520" y="-332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxpipR_TzvIUaPme62HG-10" value="编译" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;sketch=1;" vertex="1" parent="1">
+        <mxCell id="LxpipR_TzvIUaPme62HG-10" value="&lt;span style=&quot;font-weight: normal&quot;&gt;编译&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="-400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxpipR_TzvIUaPme62HG-11" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="129" y="-171" width="531" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="LxpipR_TzvIUaPme62HG-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;sketch=1;fontSize=14;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="223" y="-98" width="228" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="LxpipR_TzvIUaPme62HG-13" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;类加载器&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxpipR_TzvIUaPme62HG-14" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;执行引擎&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="275" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LxpipR_TzvIUaPme62HG-15" value="&lt;span style=&quot;font-weight: normal&quot;&gt;加载与执行&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="-157" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxpipR_TzvIUaPme62HG-16" value="JVM" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="-98" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
